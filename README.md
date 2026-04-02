@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-* 🎓 Currently pursuing my degree from **ACPCE College of Engineering, Kharghar**
+* 🎓 Currently pursuing my computer engineering degree from **ACPCE College of Engineering, Kharghar**
 * 💻 Actively learning and improving my skills in **Web Development**
 * 🚀 Passionate about building **real-world web applications**
 * ⚡ Interested in **AI, Automation & Smart Systems**
@@ -79,8 +79,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/aditya-poojari-539484333?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* 📧 Email: adityapojjari261@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/aditya-poojari-539484333
+* 📧 Email: adityapoojari261@gmail.com
 
 ---
 
