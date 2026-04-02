@@ -1,33 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">🚀 Python Developer | AI Enthusiast | Smart System Builder</h3>
+<h3 align="center">🚀 Python Developer | Web App Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Building+Voice+Assistants;Cloud+%26+Networking+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+App+Developer;Building+Smart+Applications;Python+Developer&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Engineering student focused on **IoT, Cloud & Networking**
-* 🤖 Currently building a **Voice Assistant (DeskAI / Jarvis)**
-* ⚡ Interested in **AI Automation & System-Level Projects**
+* 🎓 Engineering student passionate about **Web Development & AI**
+* 💻 Building **real-world web applications**
+* ⚡ Interested in **Automation & Smart Systems**
 * 📚 Learning **Backend Development & Advanced Python**
-
----
-
-## 🚀 Featured Project
-
-### 🤖 DeskAI - Voice Assistant
-
-> A smart desktop assistant built using Python
-
-🔹 Voice commands for system control
-🔹 File & folder automation
-🔹 Email & web integration
-🔹 GUI + Speech Recognition
-
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO
 
 ---
 
@@ -40,17 +25,18 @@
 
 ---
 
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
 ### ⚙️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-### ☁️ Learning
-
-![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge)
 
 ---
 
@@ -65,8 +51,8 @@
 
 ## 📌 Goals
 
-* 🔥 Build real-world AI projects
-* 🌐 Master backend & cloud
+* 🔥 Build real-world web & AI projects
+* 🌐 Become a full-stack developer
 * 💼 Get placed in top tech company
 
 ---
